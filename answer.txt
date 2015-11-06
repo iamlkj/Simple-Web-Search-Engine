@@ -1,0 +1,26 @@
+Input
+Cavaliers
+
+Output
+1. 1.html	frequency: 4	pagerank: 1.069150
+2. 3.html	frequency: 4	pagerank: 0.274556
+3. 2.html	frequency: 3	pagerank: 0.624277
+
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w
+
+Input
+Google
+
+Output
+1. 4.html	frequency: 9	pagerank: 1.608945
+2. 5.html	frequency: 1	pagerank: 1.423059
+
+¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w
+
+Input
+starting
+
+Output
+1. 1.html	frequency: 3	pagerank: 1.069150
+2. 4.html	frequency: 1	pagerank: 1.608945
+3. 3.html	frequency: 1	pagerank: 0.274556
